@@ -7,7 +7,7 @@
 **Dark RAMMap** is a lightweight, dark-themed Windows physical memory utility inspired by Sysinternals RAMMap. Built using C# and native NT kernel APIs (`ntdll.dll`), it provides a real-time, low-level breakdown of system RAM allocation across process working sets, standby lists, modified pages, and kernel pools—wrapped in a modern dark interface.
 
 ---
-Fast to retrieve info but not accuracy , close enough tho 
+Fast to retrieve info but not accurate  , close enough tho 
 ---
 
 ## Key Features
